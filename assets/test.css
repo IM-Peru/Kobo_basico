@@ -19,7 +19,7 @@ body{
 
 slides > slide {
   
-  background-image: url(assets/img/training_logo.png) !important;
+  background-image: url(img/training_logo.png) !important;
   background-size: 70px !important;
   background-repeat: no-repeat !important;
   background-position: 93.1% 6% !important;
